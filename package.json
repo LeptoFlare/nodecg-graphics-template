@@ -1,5 +1,5 @@
 {
-  "name": "nodecg-graphics-template",
+  "name": "cq-graphics-template",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
