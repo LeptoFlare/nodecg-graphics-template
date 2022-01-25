@@ -4,6 +4,8 @@
 ![License][license-shield]
 ![Stars][stars-shield]
 
+> :warning: This is a template! Make sure to update this README, and the package.json name. Then delete this line.
+
 This is a NodeCG graphics bundle, make sure you have a working NodeCG installation.
 - This graphics bundle is controlled with [`cq-overlay-controls`](https://github.com/LeptoFlare/cq-overlay-controls).
 - This is a custom graphics bundle that I was commissioned for. If you'd like to commission your own, please see my [ko-fi](https://ko-fi.com/leptoflare) page.
