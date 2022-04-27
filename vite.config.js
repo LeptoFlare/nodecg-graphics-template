@@ -7,6 +7,7 @@ export default defineConfig({
   plugins: [react()],
   base: "./",
   build: {
+    target: "chrome95",
     outDir: "graphics",
     sourcemap: true,
     rollupOptions: {
