@@ -1,11 +1,11 @@
-# `cg-graphics-template`
+# `template-cg`
 > A custom graphics bundle that I was commissioned for
 
 This is a NodeCG graphics bundle, make sure you have a working NodeCG installation.
 - This graphics bundle is controlled with [`cq-overlays/dashboard`](https://github.com/cq-overlays/dashboard).
 
 ## Installation
-1. Find the version you're looking for on the releases page, and download `cg-graphics-template.zip`.
+1. Find the version you're looking for on the releases page, and download `template-cg.zip`.
 1. Unzip the file and drag the folder into the `bundles/` subdirectory of your NodeCG installation.
 
 ## Running locally
